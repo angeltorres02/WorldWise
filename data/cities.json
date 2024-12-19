@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Puebla",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-12-17T21:01:17.238Z",
+      "notes": "Fui a la escuela 🥲",
+      "position": {
+        "lat": "18.999802842256152",
+        "lng": "-98.20060731440303"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Tepeaca",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-12-17T21:03:02.385Z",
+      "notes": "Aqui vivo 😁",
+      "position": {
+        "lat": "18.977798332128607",
+        "lng": "-97.8941434621811"
+      },
+      "id": 98443199
     }
   ]
 }
